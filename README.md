@@ -1,3 +1,4 @@
+![image](https://github.com/metteLie/metteLie/assets/85258344/ff4320c4-7212-43bc-8955-8388f571402c)
 # Hi there! 👋
 
 I'm Mette, a student at NMBU with a passion for enviromental physics and data sinence. I specialize in energy physics and have experience working on analyzing energy consumption in Norway.
