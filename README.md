@@ -1,7 +1,7 @@
 ![image](https://github.com/metteLie/metteLie/assets/85258344/ff4320c4-7212-43bc-8955-8388f571402c)
 # Hi there! 👋
 
-I'm Mette, a student at NMBU with a passion for enviromental physics and data sinence. I specialize in energy physics and have experience in analyzing energy consumption in Norway.
+I'm Mette, a data analyst with a passion for enviromental physics and data sinence. I specialize in energy physics and have experience in analyzing energy data in Norway.
 
 ### What I'm currently working on:
 - Analyzing grid data at [Elhub](https://elhub.no/)
